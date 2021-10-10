@@ -5,7 +5,7 @@
 </p>
 <p align="right">
 <strong>
-    software engineer from :brazil:
+    software engineer from <img src="./brazil.gif" alt="Brazil" height="12" />
 </strong>
 </p>
 <h5 align="right">
