@@ -1,5 +1,5 @@
 <h2 align="right" style="font-style: italic">hi there~</h2>
-<p align="right"><strong>i'm</strong></p>
+<p align="right">i'm Breno <strong>gamoridev</strong> Amorim</p>
 <p align="right">
 <strong>
     software engineer from <img src="./brazil.gif" alt="Brazil" height="12" />
