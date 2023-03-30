@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/reactJS-black?style=for-the-badge&logo=react&logoColor=B75800" alt="reactjs"/>
     <img src="https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextdotjs&logoColor=B75800" alt="nextjs"/>
     <img src="https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs&logoColor=B75800" alt="nodejs"/>
-    <img src="https://img.shields.io/badge/elixir-black?style=for-the-badge&logo=elixir&logoColor=B75800" alt="elixir"/>
     <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=B75800" alt="docker"/>
     <img src="https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest&logoColor=B75800" alt="jest"/>
     <img src="https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress&logoColor=B75800" alt="cypress"/>
